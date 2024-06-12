@@ -1,3 +1,5 @@
+import headerStyles from "./Header.module.css";
+
 function Header() {
     return (
         <>
