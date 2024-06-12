@@ -19,10 +19,14 @@ img {
 }
 
 button {
-    background-color: orange;
+    background-color: rgb(192, 124, 0);
     border: none;
     color: white;
     padding: 7px 14px;
     text-align: center;
     font-size: 12px;
+}
+
+button:hover {
+    background-color: orange;
 }
